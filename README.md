@@ -27,5 +27,5 @@ Sample output:
       - "Monzo Bank"
 ```
 
-Served its purpose for me (radaring really hard to reproduce bug to Apple) so never went to wrap it up as a console utility.
+Served its purpose for me (radaring really hard to reproduce [bug](https://openradar.appspot.com/radar?id=4937807214673920) to Apple) so never went to wrap it up as a console utility.
 If you're fancy to do this, PRs are most welcome.
